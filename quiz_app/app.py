@@ -84,10 +84,10 @@ class MenuScreen(Screen):
 # ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
 class SectionSelectScreen(Screen):
     BINDINGS = [
-        Binding("0", "select_section('all')", "⓪ Tất cả", show=True),
-        Binding("1", "select_section('0')", "① Bài 10", show=True),
-        Binding("2", "select_section('1')", "② Bài 11", show=True),
-        Binding("3", "select_section('2')", "③ CĐ6", show=True),
+        Binding("0", "select_section('all')", "Tất cả", show=True),
+        Binding("1", "select_section('0')", "Bài 10", show=True),
+        Binding("2", "select_section('1')", "Bài 11", show=True),
+        Binding("3", "select_section('2')", "CĐ6", show=True),
         Binding("escape", "go_back", "Quay lại", show=True),
     ]
 
@@ -145,10 +145,10 @@ class SectionSelectScreen(Screen):
 # ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
 class QuizScreen(Screen):
     BINDINGS = [
-        Binding("1", "choose('1')", "① A/Đúng", show=True),
-        Binding("2", "choose('2')", "② B/Sai", show=True),
-        Binding("3", "choose('3')", "③ C", show=True),
-        Binding("4", "choose('4')", "④ D", show=True),
+        Binding("1", "choose('1')", "A / Đúng", show=True),
+        Binding("2", "choose('2')", "B / Sai", show=True),
+        Binding("3", "choose('3')", "C", show=True),
+        Binding("4", "choose('4')", "D", show=True),
         Binding("escape", "go_back", "Thoát", show=True),
     ]
 
@@ -187,19 +187,22 @@ class QuizScreen(Screen):
         for letter in ["A", "B", "C", "D"]:
             try:
                 btn = self.query_one(f"#opt-{letter}", Button)
-                btn.remove_class("correct", "wrong")
-                btn.blur()
+                btn.remove_class("correct")
+                btn.remove_class("wrong")
+                btn.remove_class("-active")
             except Exception:
                 pass
         try:
             true_btn = self.query_one("#tf-true", Button)
             false_btn = self.query_one("#tf-false", Button)
-            true_btn.remove_class("correct", "wrong")
-            false_btn.remove_class("correct", "wrong")
-            true_btn.blur()
-            false_btn.blur()
+            for b in (true_btn, false_btn):
+                b.remove_class("correct")
+                b.remove_class("wrong")
+                b.remove_class("-active")
         except Exception:
             pass
+        # Move focus away from buttons entirely
+        self.set_focus(None)
 
     def _render_question(self) -> None:
         session = self.session

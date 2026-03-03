@@ -76,8 +76,12 @@ Screen {
 }
 
 #quiz-progress-bar {
-    width: 100%;
+    width: 1fr;
     margin: 0 0 1 0;
+}
+
+#quiz-progress-bar Bar {
+    width: 1fr;
 }
 
 #quiz-question {
