@@ -1,0 +1,146 @@
+[
+  {
+    "section": "",
+    "number": 1,
+    "question": "Đọc các đoạn tư liệu sau đây, trong mỗi ý a, b, c, d, học sinh chọn đúng hoặc sai.",
+    "passage": "“Cách mạng là sự nghiệp của nhân dân, vì nhân dân và do nhân dân. Chính những ý kiến, nguyện vọng và sáng kiến của nhân dân này sinh từ thực tiễn là một nguồn gốc hình thành đường lối đổi mới của Đảng. Dựa vào nhân dân, qua thực tiên phong phú của nhân dân, tiến hành tổng kết, từng bước tìm ra quy luật các mặt của cuộc sống để đi lên – đỏ là chìa khóa của thành công”.\n(Nhiều tác giả, Tài liệu tham khảo phục vụ nghiên cứu tổng kết 30 năm đổi mới,\nNXB Chính trị Quốc gia Sự thật, Hà Nội, 2013, tr.81)",
+    "sub_questions": {
+      "A": "Cần thực hiện mọi ý kiến, nguyện vọng và sáng kiến của nhân dân.",
+      "B": "Toàn bộ đường lối Đổi mới hình thành từ các ý kiến của nhân dân.",
+      "C": "Ý kiến của của nhân dân là một nguồn gốc hình thành đường lối đổi mới.",
+      "D": "Để thành công, quá trình đổi mới cần dựa vào nhân dân và thực tiễn."
+    },
+    "answers": {
+      "A": false,
+      "B": false,
+      "C": true,
+      "D": true
+    }
+  },
+  {
+    "section": "",
+    "number": 2,
+    "question": "Đọc đoạn tư liệu sau đây, trong mỗi ý a, b, c, d, học sinh chọn đúng hoặc sai.",
+    "passage": "“Theo nhận thức của chúng ta, kinh tế thị trường định hưởng xã hội chủ nghĩa là nền kinh tế thị trường hiện đại, hội nhập quốc tế, vận hành đầy đủ, đồng bộ theo các quy luật của kinh tế thị trường, có sự quản lí của Nhà nước pháp quyền xã hội chủ nghĩa, do Đảng Cộng sản Việt Nam lãnh đạo, bảo đảm định hướng xã hội chủ nghĩa, nhằm mục tiêu “dân giàu, nước mạnh, dân chủ, công bằng, văn minh”....”.\n(Nguyễn Phú Trọng, Một số vấn đề lí luận và thực tiễn về chủ nghĩa xã hội và con đường đi lên chủ nghĩa xã hội ở Việt Nam, NXB Chính trị Quốc gia Sự thật, Hà Nội, 2022, tr.25 – 26)",
+    "sub_questions": {
+      "A": "Đoạn tư liệu phản ánh nhận thức của Đảng Cộng sản Việt Nam về nền kinh tế kế hoạch hoá bao cấp.",
+      "B": "Nền kinh tế thị trường định hướng xã hội chủ nghĩa tuân theo các quy luật chung, nhưng được định hướng xã hội chủ nghĩa.",
+      "C": "Kinh tế thị trường định hướng xã hội chủ nghĩa là mô hình của nền kinh tế Việt Nam hiện nay trong quá trình thực hiện công cuộc Đổi mới.",
+      "D": "Mô hình kinh tế thị trường định hướng xã hội chủ nghĩa là yếu tố giúp kinh tế Việt Nam đến nay chưa bao giờ rơi vào tình trạng suy thoái."
+    },
+    "answers": {
+      "A": false,
+      "B": true,
+      "C": true,
+      "D": false
+    }
+  },
+  {
+    "section": "",
+    "number": 3,
+    "question": "Đọc đoạn tư liệu sau đây, trong mỗi ý a, b, c, d, học sinh chọn đúng hoặc sai.",
+    "passage": "Tích cực tranh thủ điều kiện quốc tế thuận lợi để nhanh chóng xây dựng cơ sở vật chất kĩ thuật của chủ nghĩa xã hội đồng thời củng cố quốc phòng an ninh, phát huy tác dụng của Đảng và Nhà nước trong công cuộc đấu tranh chung của nhân dân thế giới vì hoà bình, độc lập dân tộc và chủ nghĩa xã hội. Tăng cường đoàn kết với Lào và Cam-pu-chia, thực hiện hợp tác lâu dài, giúp đỡ lẫn nhau, làm cho ba nước Đông Dương trở thành lực lượng vững chắc của cách mạng và hoà bình ở Đông Nam Á. Củng cố và tăng cường quan hệ hợp tác giữa Việt Nam và các nước xã hội chủ nghĩa anh em. Xây dựng quan hệ hữu nghị giữa nước ta và các nước trong thế giới thứ ba, cùng các nước khác trên cơ sở năm nguyên tắc chung sống hoà bình.\n(Đảng Cộng sản Việt Nam; Nghị quyết lần thứ 24 của Ban Chấp hành Trung ương Đảng khoá III ngày 29-9-1975 về nhiệm vụ của cách mạng Việt Nam trong giai đoạn mới, Trích trong Văn kiện Đảng toàn tập, Tập 36, Nxb Chính trị Quốc gia, Hà Nội, 2004, tr.401)",
+    "sub_questions": {
+      "A": "Tư tưởng cơ bản trong hoạt động đối ngoại của Việt Nam là sự kết hợp giữa chủ nghĩa yêu nước với chủ nghĩa quốc tế vô sản.",
+      "B": "Công tác đối ngoại của Việt Nam nhằm mục tiêu giữ vững nền độc lập dân tộc, sự tự chủ về kinh tế, chính trị của đất nước.",
+      "C": "Đối tượng của chính sách đối ngoại của Việt Nam chỉ bao gồm các nước xã hội chủ nghĩa và củng cố khối đoàn kết của ba nước Đông Dương.",
+      "D": "Việt Nam đã tích cực tham gia vào các hoạt động đấu tranh vì hoà bình và là thành viên sáng lập của Phong trào Không liên kết."
+    },
+    "answers": {
+      "A": true,
+      "B": true,
+      "C": false,
+      "D": false
+    }
+  },
+  {
+    "section": "",
+    "number": 4,
+    "question": "Đọc đoạn tư liệu sau đây, trong mỗi ý a, b, c, d, học sinh chọn đúng hoặc sai.",
+    "passage": "Tháng 1/1946, Chủ tịch Hồ Chí Minh nhân danh Chính phủ nước Việt Nam Dân chủ Cộng hòa đã gửi thư đến Chủ tịch Đại hội đồng LHQ bày tỏ nguyện vọng Việt Nam gia nhập LHQ. Trải qua thăng trầm lịch sử, ngày 20/9/1977, Việt Nam chính thức trở thành thành viên thứ 149 của Liên hợp quốc. Kể từ đó, Việt Nam luôn là một đối tác tin cậy, là thành viên tích cực và có nhiều đóng góp quan trọng vào thực hiện các sứ mệnh của Liên hợp quốc. Hợp tác giữa Việt Nam và Liên hợp quốc phát triển mạnh mẽ, sâu rộng và hiệu quả. Các chương trình, dự án của Liên hợp quốc đã đóng góp quan trọng vào quá trình đổi mới và hội nhập quốc tế của Việt Nam, nhất là phát triển hạ tầng kinh tế - xã hội, giáo dục, y tế, xóa đói giảm nghèo, bảo vệ môi trường, chia sẻ kinh nghiệm phát triển trong nhiều lĩnh vực. Thông qua mô hình hợp tác ba bên với sự hỗ trợ của Liên hợp quốc, Việt Nam tích cực chia sẻ tri thức, kinh nghiệm có được từ công cuộc đổi mới với các nước đang phát triển, nhất là kinh nghiệm về đổi mới kinh tế, hội nhập quốc tế, phát triển nông nghiệp, y tế, giáo dục... Quan hệ hợp tác giữa Việt Nam và Liên hợp quốc những năm qua đã góp phần quan trọng củng cố môi trường hòa bình, ổn định, thúc đẩy hội nhập quốc tế toàn diện, sâu rộng, tranh thủ được các nguồn lực bên ngoài cho phát triển đất nước, nâng cao vị thế, uy tín Việt Nam trên trường quốc tế.\n(Bùi Thanh Sơn,  45 năm quan hệ Việt Nam - Liên Hợp Quốc: Đối tác tin cậy vì hòa bình, hợp tác và phát triển, báo Chính phủ điện tử, ngày 19-9-2022)",
+    "sub_questions": {
+      "A": "Việc gia nhập Liên hợp quốc là mốc đánh dấu bước ngoặt trong hoạt động ngoại giao đa phương của Việt Nam.",
+      "B": "Việt Nam trở thành thành viên tích cực, có nhiều đóng góp hiệu quả vào thực hiện các sứ mệnh của Liên hợp quốc.",
+      "C": "Ngay sau khi có nguyện vọng, Việt Nam đã được chấp nhận trở thành thành viên thứ 149 của Liên hợp quốc.",
+      "D": "Quan hệ Việt Nam và Liên hợp quốc khá đa dạng, nhưng chủ yếu là trên các vấn đề về dân chủ và dân quyền."
+    },
+    "answers": {
+      "A": true,
+      "B": true,
+      "C": false,
+      "D": false
+    }
+  },
+  {
+    "section": "",
+    "number": 5,
+    "question": "Đọc đoạn tư liệu sau đây, trong mỗi ý a, b, c, d, học sinh chọn đúng hoặc sai.",
+    "passage": "“Luận cương của Lê-nin làm cho tôi rất cảm động, phấn khởi, sáng tỏ, và tin tưởng biết bao! Tôi vui mừng đến phát khóc lên. Ngồi một mình trong buồng mà tôi nói to lên như đang nói trước quần chúng đông đảo: “Hỡi đồng bào bị đọa đầy đau khổ! Đây là cái cần thiết cho chúng ta, đây là con đường giải phóng chúng ta”.\nTừ đó tôi hoàn toàn tin theo Lê-nin, tin theo Quốc tế thứ ba”\n( Hồ Chí Minh, Con đường dẫn tôi đến chủ nghĩa Mác- Lênin, trích trong: Hồ Chí Minh tòan tập, tập 12, NXB chính trị quốc gia Sự thật, Hà Nội, 2011, tr562.)",
+    "sub_questions": {
+      "A": "Đoạn tư liệu là tâm sự vui sướng tột độ của Nguyễn Ái Quốc khi tìm thấy con đường cứu nước đúng đắn cho dân tộc Việt Nam sau bao năm kiếm tìm.",
+      "B": "Con đường giải phóng dân tộc mà Nguyễn Ái Quốc tìm thấy khi đọc Sơ thảo luận cương chính là con đường của cách mạng Tháng Mười Nga.",
+      "C": "Nguyễn Ái Quốc đã tìm thấy con đường cứu nước cho dân tộc Việt Nam khi đọc Sơ thảo luận cương về vấn đề dân tộc và vấn đề thuộc địa của Lê-nin.",
+      "D": "Việc tin theo Lê-nin và Quốc tế thứ ba khi đọc Sơ thảo luận cương đã đánh dấu bước chuyển trong con người Nguyễn Ái Quốc - từ chủ nghĩa yêu nước trở thành chiến sĩ cộng sản."
+    },
+    "answers": {
+      "A": true,
+      "B": true,
+      "C": true,
+      "D": false
+    }
+  },
+  {
+    "section": "",
+    "number": 6,
+    "question": "Đọc đoạn tư liệu sau đây, trong mỗi ý a, b, c, d, học sinh chọn đúng hoặc sai.",
+    "passage": "“Xuất phát từ lòng yêu nước và trên cơ sở rút kinh nghiệm thất bại của các thế hệ cách mạng tiền bối, ngày 5-6-1911 Nguyễn Ái Quốc đã quyết tâm ra đi tìm con đường cứu nước mới hữu hiệu hơn. Nhưng khác với thế hệ thanh niên đầu thế kỉ hướng về Nhật Bản, Nguyễn Ái Quốc quyết định sang phương Tây, đến nước Pháp để tìn hiểu xem “nước Pháp và các nước khác làm thế nào rồi quay về giúp đồng bào mình”. Trong nhiều năm sau đó Người đã đi qua nhiều nước khác nhau Ở các đại lục Á, Âu, Phi, Mĩ đã phảo làm nhiều nghề rửa bát, dọn tàu, quét rác để sống và học tập. Nhờ đó Người hiểu rằng “ở đâu bọn đế quốc thực dân cũng tàn bạo và độc ác; ở đâu những người lao động cũng bị áp bức và bị bóc lột dã man”\n(Đại Cương Lịch Sử Việt Nam, NXBGD, Tập 2, tr242-243)",
+    "sub_questions": {
+      "A": "Đoạn tư liệu trên nói về hành trình tìm đường cứu nước của Nguyễn Ái Quốc.",
+      "B": "Đây là quá trình Người hiểu được chân lý bạn thù.",
+      "C": "Điểm giống nhau trong quá trình tìm đường cứu nước của Nguyễn Tất Thành và các sĩ phu yêu nước tiến bộ đầu thế kỉ XX là đều có tư tưởng hướng ra nước ngoài để tìm cách cứu nước.",
+      "D": "Điểm giống nhau trong quá trình tìm đường cứu nước của Nguyễn Tất Thành và các sĩ phu yêu nước tiến bộ đầu thế kỉ XX là đều có quá trình khảo sát thực tiễn ở các nước phương Tây."
+    },
+    "answers": {
+      "A": true,
+      "B": true,
+      "C": true,
+      "D": false
+    }
+  },
+  {
+    "section": "",
+    "number": 7,
+    "question": "Đọc đoạn tư liệu sau đây, trong mỗi ý a, b, c, d, học sinh chọn đúng hoặc sai.",
+    "passage": "“Chủ tịch Hồ Chí Minh là ngọn cờ đầu của giải phóng dân tộc. Người đã dẫn dắt triệu triệu người Việt Nam cùng hàng ngàn triệu người nô lệ hơn 100 nước trên thế giới vùng lên giành độc lập tự do, chống chủ nghĩa thực dân cũ và mới. Người đã làm nên cuộc đảo lộn thế giới chưa từng có từ sau khi chủ nghĩa tư bản lật đổ đế chế La Mã cổ xưa. Người đã vẽ lại bản đồ thế giới. Chủ tịch Hồ Chí Minh xứng đáng là Danh nhân văn hóa thế kỷ XX”.\n(Trích Từ điển Danh nhân văn hóa thế giới, trong lĩnh vực chính trị - xã hội, tr. 332-333 )",
+    "sub_questions": {
+      "A": "Chủ tịch Hồ Chí Minh đã dẫn dắt nhân dân Việt Nam và thế giới chống chủ nghĩa thực dân kiểu cũ và mới.",
+      "B": "Đoạn tư liệu trên đã nhắc chủ tịch Hồ Chí Minh đã lãnh đạo toàn bộ thế giới chống lại chủ nghĩa tư bản trong thế kỉ XXI.",
+      "C": "Chủ tịch Hồ Chí Minh có công lao to lớn với phong trào giải phóng dân tộc trên thế giới.",
+      "D": "Chủ tịch Hồ Chí Minh là một nhà văn hóa lớn không chỉ của Việt Nam mà còn cả toàn nhân loại."
+    },
+    "answers": {
+      "A": true,
+      "B": false,
+      "C": true,
+      "D": true
+    }
+  },
+  {
+    "section": "",
+    "number": 8,
+    "question": "Đọc đoạn tư liệu sau đây, trong mỗi ý a, b, c, d, học sinh chọn đúng hoặc sai.",
+    "passage": "“.. Chủ tịch Hồ Chí Minh, một biểu tượng xuất sắc về sự tự khẳng định dân tộc, đã cống hiến trọn đời mình cho sự nghiệp giải phóng dân tộc của nhân dân Việt Nam, góp phần vào cuộc đấu tranh chung của các dân tộc vì hoà bình, độc lập dân tộc, dân chủ và tiến bộ xã hội.\nNhận thấy những đóng góp quan trọng và nhiều mặt của Chủ tịch Hồ Chí Minh trên các lĩnh vực văn hoá, giáo dục, nghệ thuật chính là sự kết tinh của truyền thống văn hoá hàng nghìn năm của dân tộc Việt Nam và những tư tưởng của Người là hiện thân của những khát vọng của các dân tộc mong muốn được khẳng định bản sắc văn hoá của mình...”.\n(Tập biên bản của Đại hội đồng UNESCO, trích trong UNESCO với sự kiện tôn vinh Chủ tịch Hồ Chí Minh, NXB Chính trị quốc gia, 2014, tr. 72-73)",
+    "sub_questions": {
+      "A": "Chủ tịch Hồ Chí Minh đã cống hiến trọn đời cho sự nghiệp giải phóng dân tộc của nhân dân Việt Nam.",
+      "B": "Chủ tịch Hồ Chí Minh đóng vai trò quan trọng nhất trong cuộc đấu tranh của các dân tộc trên thế giới.",
+      "C": "UNESCO đã tôn vinh chủ tịch Hồ Chí Minh vì những đóng góp của Người.",
+      "D": "Chủ tịch Hồ Chí Minh có nhiều đóng góp to lớn, tư tưởng cao quý của Người sẽ sống mãi trong lòng mỗi người dân Việt Nam."
+    },
+    "answers": {
+      "A": true,
+      "B": false,
+      "C": true,
+      "D": true
+    }
+  }
+]

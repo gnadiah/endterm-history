@@ -1,0 +1,18 @@
+[project]
+name = "lich-su-quiz"
+version = "1.0.0"
+description = "TUI app ôn tập trắc nghiệm Lịch Sử Việt Nam — Đề cương HK2 Khối 12"
+readme = "README.md"
+requires-python = ">=3.10"
+dependencies = [
+    "textual>=1.0.0",
+]
+
+[project.scripts]
+quiz = "quiz_app.app:main"
+
+[tool.uv]
+dev-dependencies = [
+    "python-docx>=1.0.0",
+    "pymupdf>=1.24.0",
+]

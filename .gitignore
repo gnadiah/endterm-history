@@ -1,0 +1,29 @@
+# Python
+__pycache__/
+*.py[cod]
+*.egg-info/
+dist/
+build/
+
+# Virtual environment
+.venv/
+
+# Dev/extraction files (not needed for the app)
+extract_questions.py
+pdf_to_images.py
+pdf_pages/
+*.docx
+*.pdf
+
+# Quiz history (generated at runtime)
+history.json
+
+# IDE
+.vscode/
+.idea/
+*.swp
+*.swo
+
+# OS
+.DS_Store
+Thumbs.db
